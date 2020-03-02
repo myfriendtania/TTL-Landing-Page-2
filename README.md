@@ -1,4 +1,4 @@
-# ![GA-Cog](https://avatars2.githubusercontent.com/u/42252722?s=200&v=4) Welcome to the SXSW & GA Edition of Intro to Coding 
+# Second Landing page from Daniel's workshop :)
 
 This is what we'll be building today!
 
